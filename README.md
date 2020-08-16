@@ -1,5 +1,6 @@
 https://fierce-plateau-62518.herokuapp.com/
 
+(Abandon avant création interface admin suite à disparités entre commit Github et Heroku mais fonctionnel en tant que tel. Voir https://github.com/Paul-Marie-beep/repositoire_eventbrite_2)
 
 
 # README
